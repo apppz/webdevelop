@@ -1,0 +1,71 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: chocolate;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.head1 {
+    color: chocolate;
+    font-weight: bolder;
+}
+
+.head22 {
+    color: chocolate;
+    font-weight: bolder;
+}
+
+.c11 {
+    color: yellow
+}
+
+.c22 {
+    color: yellow
+}
+
+h3 {
+    color: yellow
+}
+
+.p11 {
+    font-size: small;
+    text-align: center;
+    font-size: 60%;
+}
+
+.p22 {
+    font-size: small;
+}
+
+.p33 {
+    font-size: small;
+}
+
+h4 {
+    text-align: center;
+    color: crimson;
+}
+
+.h00 {
+    color: orange;
+}
+
+.h000 {
+    color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.head0 {
+    color: orange;
+}
+
+.id11 {
+    color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
